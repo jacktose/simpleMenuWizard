@@ -43,6 +43,7 @@ To **remove entries from the context menu** you need to
     * `toolbar-context.css` when right-clicking on toolbar or tabbar
     * `urlbar-context.css` when right-clicking on the addressbar
     * `urlbar-pageaction.css` when left-clicking the three dots in the addressbar
+	* `main-menubar.css` when left-clicking the old-school menu bar (File, Edit, ...)
 
 6. Restart Firefox to make changes work.  
    Hint: A nice way to restart is via Firefox's command line. Press `Shift + F2`, type `restart`, press enter.
